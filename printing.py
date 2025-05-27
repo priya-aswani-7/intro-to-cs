@@ -28,3 +28,10 @@ for i in range(1, 3): # n times
 # i = 2, j = 1
 # i = 2, j = 2
 
+
+# go to the list of names that start with P
+# go to the list of names that start with PR
+# go to the list of names that start with PRI
+
+# binary search: SORTED SETTING: reducing the search space smartly -> O(logn)
+
